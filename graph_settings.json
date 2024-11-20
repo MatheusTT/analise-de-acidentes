@@ -1,0 +1,58 @@
+{
+  "graphs": [
+    {
+      "column": "CRASH_DAY_OF_WEEK",
+      "color": "skyblue",
+      "xlabel": "Dia da Semana",
+      "ylabel": "Quantidade de Acidentes",
+      "bar_title": "Quantidade de Acidentes por Dia da Semana",
+      "pizza_title": "Distribuição de Acidentes por Dia da Semana",
+      "xticks": 45
+    },
+    {
+      "column": "WEATHER_CONDITION",
+      "color": "lightgreen",
+      "xlabel": "Condição Climática",
+      "ylabel": "Quantidade de Acidentes",
+      "bar_title": "Quantidade de Acidentes por Condição Climática",
+      "pizza_title": "Distribuição de Acidentes por Condição Climática",
+      "xticks": 45
+    },
+    {
+      "column": "PRIM_CONTRIBUTORY_CAUSE",
+      "color": "salmon",
+      "xlabel": "Causa Principal",
+      "ylabel": "Quantidade de Acidentes",
+      "bar_title": "Quantidade de Acidentes por Causa Principal",
+      "pizza_title": "Causas de Acidentes",
+      "xticks": 90
+    },
+    {
+      "column": "HIT_AND_RUN_I",
+      "color": "orange",
+      "xlabel": "Houve Fuga?",
+      "ylabel": "Quantidade de Acidentes",
+      "bar_title": "Quantidades de Acidentes com e sem Fuga",
+      "pizza_title": "Distribuição de Acidentes com e sem fuga",
+      "xticks": 45
+    },
+    {
+      "column": "MOST_SEVERE_INJURY",
+      "color": "purple",
+      "xlabel": "Severidade da Lesão",
+      "ylabel": "Quantidade de Acidentes",
+      "bar_title": "Quatidade de Acidentes por Severidade de Lesão",
+      "pizza_title": "Distribuição de Acidentes por Severidades da lesão",
+      "xticks": 45
+    },
+    {
+      "column": "POSTED_SPEED_LIMIT",
+      "color": "steelblue",
+      "xlabel": "Limite de Velocidade",
+      "ylabel": "Quantidade de Acidentes",
+      "bar_title": "Quantidade de Acidentes por Limite de Velocidade",
+      "pizza_title": "Limites de Velocidade com Mais Acidentes",
+      "xticks": 45
+    }
+  ]
+}
